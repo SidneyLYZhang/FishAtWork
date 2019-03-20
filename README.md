@@ -1,2 +1,7 @@
-# FishAtWork
-So many 🐟 at work ... 
+# Fish At Work
+
+goal: see those things in cmd
+
+- Twitter
+- Instagram
+- Jike
